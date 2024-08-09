@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da90a5a5-835b-4609-b275-e86e295bb706" name="Changes" comment="" />
+    <list default="true" id="da90a5a5-835b-4609-b275-e86e295bb706" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Main.scala" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +16,9 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -31,8 +36,9 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "nya",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/mroja/Desktop/Cosas de la U/Dcc feliz/Docencia/Auxliar Memes 2024-2/Auxiliar_1-2024-2/src",
+    "last_opened_file_path": "C:/Users/benja/Desktop/UCHILE/MEMES/Auxiliar 1/Auxiliar_1-2024-2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,8 +72,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.300" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.300" />
       </set>
     </attachedChunks>
   </component>
@@ -81,6 +87,7 @@
       <updated>1722962431666</updated>
       <workItem from="1722962432716" duration="1026000" />
       <workItem from="1722963813786" duration="207000" />
+      <workItem from="1723239155743" duration="361000" />
     </task>
     <servers />
   </component>
