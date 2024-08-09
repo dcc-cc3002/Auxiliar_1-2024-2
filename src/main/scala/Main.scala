@@ -5,4 +5,7 @@ object Main {
   def PrimeraAuxiliarMemera(): Unit ={
     println("Hola memeros")
   }
+  def fun(): Unit ={
+    println("Adios")
+  }
 }
