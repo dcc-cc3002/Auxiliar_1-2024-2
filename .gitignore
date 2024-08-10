@@ -1,49 +1,41 @@
-This diff contains a change in line endings from 'LF' to 'CRLF'.
-@@ -0,0 +1,47 @@
+# Created by https://www.toptal.com/developers/gitignore/api/sbt,scala
+# Edit at https://www.toptal.com/developers/gitignore?templates=sbt,scala
+
+### SBT ###
+# Simple Build Tool
+# http://www.scala-sbt.org/release/docs/Getting-Started/Directories.html#configuring-version-control
+
+dist/*
 target/
-!.mvn/wrapper/maven-wrapper.jar
-!/src/main//target/
-!/src/test//target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+.history
+.cache
+.lib/
 
-### IntelliJ IDEA ###
-.idea/modules.xml
-.idea/jarRepositories.xml
-.idea/compiler.xml
-.idea/libraries/
-*.iws
-*.iml
-*.ipr
-out/
-!/src/main//out/
-!/src/test//out/
-
-### Eclipse ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-bin/
-!/src/main//bin/
-!/src/test//bin/
-
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-build/
-!/src/main//build/
-!/src/test//build/
-
-### VS Code ###
-.vscode/
-
-### Mac OS ###
-.DS_Store
+### SBT Patch ###
+.bsp/
 
 ### Scala ###
-.bsp/
+*.class
+*.log
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# End of https://www.toptal.com/developers/gitignore/api/sbt,scala
+
+## IntelliJ related
+.idea/
+
+### Metals ###
+.metals/
+.bloop/
+project/**/metals.sbt
+.scalafmt.conf
+
+### Mac
+.DS_Store
+**/.DS_Store
