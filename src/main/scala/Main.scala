@@ -8,6 +8,6 @@ object Main {
   }
 
   def pautaAuxiliarMemera(): Unit = {
-    println("Chao memeros")
+    println("Chao memeros: testeando si se cayo git")
   }
 }
